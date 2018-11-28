@@ -1,0 +1,10 @@
+body {
+    background-image: url("../image/test.jpg"); 
+    background-size: 100%;
+}
+
+div.about-us {
+    border-radius: 30px;
+    color: white;
+    font-family: 'Montserrat';
+}
